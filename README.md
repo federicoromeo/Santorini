@@ -28,7 +28,6 @@ CLI | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | --- |
 GUI | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | --- |
 Socket | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | --- |
 1 Advanced feature | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  | --- |
-2 Advanced feature | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)  | --- |
 
 Advanced feature: ADVANCED GODS
 
