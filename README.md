@@ -1,10 +1,10 @@
 # Final Project of Software Engineering [GC26].
 
-Lorenzo Prada       10529212        869775
+Lorenzo Prada       
 
-Federico Romeo      10566536        890975 
+Federico Romeo      
 
-Riccardo Pozzan     10581128         891097
+Riccardo Pozzan     
 
 
 # Santorini
